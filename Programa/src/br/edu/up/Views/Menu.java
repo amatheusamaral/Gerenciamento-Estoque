@@ -1,8 +1,8 @@
 package br.edu.up.Views;
 
-import java.util.Scanner;
-import br.edu.up.Models.*;
 import br.edu.up.Controllers.*;
+import br.edu.up.Models.*;
+import java.util.Scanner;
 
 public class Menu {
     Scanner leitor = new Scanner(System.in);
